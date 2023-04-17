@@ -2,6 +2,9 @@
 #
 # instalador-wordpress.sh - by: proxlu
 
+# root
+alias wp='wp --allow-root'
+
 # Default options
 LOCALE="fr_FR"
 DB_HOST='localhost'
